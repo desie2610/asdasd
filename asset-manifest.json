@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asdasd/static/css/main.e6c13ad2.css",
+    "main.js": "/asdasd/static/js/main.8beee220.js",
+    "static/js/453.803fb492.chunk.js": "/asdasd/static/js/453.803fb492.chunk.js",
+    "index.html": "/asdasd/index.html",
+    "main.e6c13ad2.css.map": "/asdasd/static/css/main.e6c13ad2.css.map",
+    "main.8beee220.js.map": "/asdasd/static/js/main.8beee220.js.map",
+    "453.803fb492.chunk.js.map": "/asdasd/static/js/453.803fb492.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8beee220.js"
+  ]
+}
